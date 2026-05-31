@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersarse",
+        "uuid": 18411597,
+        "checksum": "v2ybko"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
